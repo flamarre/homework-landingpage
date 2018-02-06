@@ -1,0 +1,26 @@
+.container {
+background-image: url(https://i.imgur.com/uwaPUTT.jpg); 
+width: 900px;
+height: 500px;
+margin: 35px, 35px;
+}
+.container header{
+	color: white;
+	font-style: bold;
+	font-size: 34px;
+}
+.testimonial{
+	background-image: url(https://i.imgur.com/1QsnGDB.jpg);
+	width: 900px;
+	height: 200px;
+	margin: 35px, 35px;
+	color: white;
+}
+.CTA{
+	background-color: yellow;
+	width: 900px;
+	height:70px;
+}
+button{
+	margin: 35px;
+}
